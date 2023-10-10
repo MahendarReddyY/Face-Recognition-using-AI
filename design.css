@@ -1,0 +1,42 @@
+img {
+  width: 150px;
+  border-radius: 50px;
+  float: left;
+  margin-left: 10px;
+  object-fit: cover;
+}
+p {
+  font-style: italic;
+}
+p.username {
+  font-weight: bold;
+}
+
+em {
+  color: blue;
+  font-style: italic;
+}
+h1 {
+  text-align: center;
+}
+form {
+  text-align: center;
+  box-sizing: content-box;
+}
+.name {
+  padding: auto;
+}
+fieldset {
+  background-color: #c7baba;
+}
+
+legend {
+  background-color: gray;
+  color: white;
+  padding: 5px 10px;
+  text-align: left;
+}
+
+input {
+  margin: 5px;
+}
